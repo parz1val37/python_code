@@ -1,4 +1,4 @@
-# Learning_2_code..
+# Projects, cryptography and tools..
 - Basic projects for understanding python language.
 - Small and simple things using python for learning how code works.
-- Web app made using shiny, HTML and different python modules.
+- Contains tools(like mp3 to text) and other python project
